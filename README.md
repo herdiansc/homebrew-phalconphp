@@ -1,3 +1,3 @@
 # Homebrew Phalcon PHP
 
-A repository for PhalconPHP in Homebrew.
+A repository for PhalconPHP 3.0.0 in Homebrew.
